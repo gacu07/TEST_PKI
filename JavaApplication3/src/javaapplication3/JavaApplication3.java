@@ -19,7 +19,7 @@ public class JavaApplication3 {
     }
 
     public static int Policz(int a, int b) {
-       return a+b;
+       return a*b;
     }
     
 }
